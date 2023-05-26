@@ -1,2 +1,2 @@
-# HANGAMAN-GAME
+# HANGMAN-GAME
 Hangman Game using ASCII art.
